@@ -9,7 +9,7 @@
   "repository": "https://github.com/dulacp/Accountant",
   "addons": [
     "heroku-postgresql:hobby-dev",
-    "pgbackups:auto-week",
+    "pg:backups:auto-week",
     "mandrill:starter",
     "newrelic:wayne"
   ],
